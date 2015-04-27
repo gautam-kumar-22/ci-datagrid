@@ -1,0 +1,1 @@
+I usually need to show data in a table. Rather than creating the view and loop the data manually, I wrap the task on the library
